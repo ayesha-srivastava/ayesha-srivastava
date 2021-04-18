@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ayesha-srivastava/ayesha-srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Never try doing that.
 - 😄 Pronouns: She, Queen, Her.
 - ⚡ Fun fact: I love cats.
--->
+
+[![Top Langs](https://github-readme-stats1.vercel.app/api/top-langs/?username=ayesha-srivastava&theme=blue-green)](https://github.com/MainakRepositor/github-readme-stats1)
